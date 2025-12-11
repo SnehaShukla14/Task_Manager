@@ -3,7 +3,9 @@ JWT (JSON Web Token) is the method we used to securely authenticate users in the
 How it works in the project
 
 (JSON WEB TOKEN) JWT Authentication
+
 JWT stands for JSON Web Token. It's a secure way to authenticate users in APIs without using traditional sessions. Project uses djangorestframework-simplejwt for this.
+
 How JWT Works in Task Manager
 
 Endpoint: POST /api/auth/token/
